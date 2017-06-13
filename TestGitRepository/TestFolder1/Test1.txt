@@ -4,12 +4,14 @@ testing 5
 
 testing 6
 
-<<<<<<< HEAD
+
 changes from master
-=======
+
 adding branch 1
 
 adding branch 2
 
 adding branch 3
->>>>>>> 42970987e5c02e8337b748ee227f30d5661c6edc
+
+from the cloned repository
+
